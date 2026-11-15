@@ -1,5 +1,7 @@
+// ignore_for_file: prefer_const_constructors_in_immutables
+
 import 'package:flutter/material.dart';
-import 'package:flutter_thai_hotline_app/views/sub_a_home_ui.dart';
+import 'package:flutter_thai_hotline_app/views/travel_ui.dart';
 
 class SplashScreenUi extends StatefulWidget {
   SplashScreenUi({super.key});
